@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <script src="build/dist/jquery-3.0.0.min.js"></script>
+    <script src="build/dist/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="build/dist/bootstrap.min.css">
+</head>
+<body>
+<style type="text/css">
+  #list{
+      width: 500px;
+      height: 400px;
+  }
+</style>
+<div class="list-group" id="list">
+    <a id="list0" class="list-group-item list-group-item-success"></a>
+    <a id="list1" class="list-group-item list-group-item-info"></a>
+    <a id="list2" class="list-group-item list-group-item-warning"></a>
+    <a id="list3" class="list-group-item list-group-item-danger"></a>
+    <a id="list4" class="list-group-item list-group-item-primary"></a>
+
+</div>
+<script>
+    window.onload = function () {
+        var data = [];
+        $.getJSON("http://202.117.15.156:8080/silkRoad2/res_info", function (jsonData) {
+            for (var i = 0; i < jsonData.length; i++) {
+                item = new Object();
+                item.name = jsonData[i].name;
+                item.value = jsonData[i].value;
+                document.getElementById("list" + i).innerHTML = jsonData[i].name + " &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Views:" + jsonData[i].value;
+                document.getElementById("list" + i).setAttribute("href", "https://www.baidu.com/");
+                data[i] = item;
+            }
+        });
+    };
+    //    $(document).ready(function () {
+    //        var data = [];
+    //        $.getJSON("http://202.117.15.156:8080/silkRoad2/res_info", function (jsonData) {
+    //            for (var i = 0; i < jsonData.length; i++) {
+    //                item = new Object();
+    //                item.name = jsonData[i].name;
+    //                item.value = jsonData[i].value;
+    //                document.getElementById("list" + i).innerHTML = jsonData[i].name+" &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp  Views:"+jsonData[i].value;
+    //                document.getElementById("list" + i).setAttribute("href","https://www.baidu.com/");
+    //                document.getElementById("badge" + i).innerHTML = "2";
+    //                data[i] = item;
+    //            }
+    //        });
+    //        for (var i = 0; i < 5; i++) {
+    //
+    //        }
+    //    })
+
+
+</script>
+</body>
+</html>

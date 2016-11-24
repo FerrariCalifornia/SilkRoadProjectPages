@@ -1,0 +1,28 @@
+<html>
+<head>
+    <script type="text/javascript" src="build/dist/jquery-3.0.0.min.js"></script>
+
+    <script>
+        $(document).ready(function () {
+            var data = [];
+            $.getJSON("http://202.117.15.156:8080/silkRoad2/res_info", function (jsonData) {
+                for (var i = 0; i < jsonData.length; i++) {
+                    item = new Object();
+                    item.name = jsonData[i].name;
+                    item.value = jsonData[i].value;
+                    data[i] = item;
+                }
+                for (var i = 0; i < data.length; i++) {
+                    alert("data[i].name:" + data[i].name + "  data[i].name:" + data[i].value);
+                }
+            })
+        });
+    </script>
+</head>
+
+<body>
+<button>获得 JSON 数据</button>
+<p></p>
+
+</body>
+</html>

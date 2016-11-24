@@ -1,0 +1,1062 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="883ac892-ec31-43fb-8a4c-1f7507df8e02" name="Default" comment="" />
+    <ignored path="丝路个性化代码-乐佳.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="丝路个性化代码-乐佳" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="hotResources.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hotResources.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="275">
+              <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="123" selection-end-column="30" />
+              <folding>
+                <element signature="e#0#50#0" expanded="false" />
+                <element signature="e#114#661#0" expanded="false" />
+                <element signature="e#684#755#0" expanded="false" />
+                <element signature="e#779#923#0" expanded="false" />
+                <element signature="e#947#3465#0" expanded="false" />
+                <element signature="e#2866#3252#0" expanded="false" />
+                <element signature="e#2992#3236#0" expanded="false" />
+                <element signature="e#4943#6923#0" expanded="false" />
+                <element signature="e#6997#8496#0" expanded="false" />
+                <element signature="e#8569#9896#0" expanded="false" />
+                <element signature="e#9974#11413#0" expanded="false" />
+                <marker date="1479974943330" expanded="true" signature="4706:4719" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="4706:4793" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="4740:4793" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="5692:5756" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="5692:5772" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="5811:5823" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="5862:5888" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="5982:6081" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6002:6081" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6148:6179" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6251:6279" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6344:6376" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6391:6410" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6529:6561" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6576:6595" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="6758:6845" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7476:7576" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7496:7560" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7496:7576" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7623:7655" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7750:7816" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7856:7887" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="7967:7998" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="8035:8063" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="8140:8168" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="8330:8417" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9069:9149" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9188:9267" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9334:9365" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9432:9460" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9475:9493" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9585:9601" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="9731:9818" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10443:10523" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10562:10660" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10581:10660" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10727:10758" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10825:10856" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10825:10857" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="10917:10978" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="11047:11108" ph="..." />
+                <marker date="1479974943330" expanded="true" signature="11243:11330" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="profiles.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/profiles.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-411">
+              <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="102" selection-end-column="51" />
+              <folding>
+                <element signature="e#843#1178#0" expanded="false" />
+                <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#6331#7299#0" expanded="false" />
+                <element signature="e#7386#7803#0" expanded="false" />
+                <element signature="n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#script#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="e#18182#18514#0" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="hotResources.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/hotResources.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="250">
+              <caret line="100" column="43" selection-start-line="100" selection-start-column="43" selection-end-line="100" selection-end-column="43" />
+              <folding>
+                <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#style#0;n#h2#0;n#div#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="e#14226#14558#0" expanded="false" />
+                <element signature="e#14578#14867#0" expanded="false" />
+                <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#ul#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+                <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="page.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/css/page.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="475">
+              <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/build/dist/echarts.js" />
+        <option value="$PROJECT_DIR$/ui/test1.html" />
+        <option value="$PROJECT_DIR$/build/source/run.js" />
+        <option value="$PROJECT_DIR$/build/source/echartsForWordCount.js" />
+        <option value="$PROJECT_DIR$/test2.html" />
+        <option value="$PROJECT_DIR$/test3.html" />
+        <option value="$PROJECT_DIR$/test1.html" />
+        <option value="$PROJECT_DIR$/build/dist/bootstrap.min.js" />
+        <option value="$PROJECT_DIR$/build/dist/bootstrap.min.css" />
+        <option value="$PROJECT_DIR$/build/dist/listtest.html" />
+        <option value="$PROJECT_DIR$/listtest.html" />
+        <option value="$PROJECT_DIR$/profiles.html" />
+        <option value="$PROJECT_DIR$/profile.js" />
+        <option value="$PROJECT_DIR$/css/page.css" />
+        <option value="$PROJECT_DIR$/specific.html" />
+        <option value="$PROJECT_DIR$/hotResources.html" />
+        <option value="$PROJECT_DIR$/hotResources.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1432" />
+    <option name="y" value="-8" />
+    <option name="width" value="1456" />
+    <option name="height" value="876" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="silkRoadPages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="silkRoadPages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="silkRoadPages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="silkRoadPages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="silkRoadPages" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\SilkRoadProject\丝路个性化代码-乐佳\丝路个性化代码-乐佳" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="H:\SilkRoadProject\丝路个性化代码-乐佳\丝路个性化代码-乐佳\build\dist" />
+      <recent name="H:\SilkRoadProject\丝路个性化代码-乐佳\丝路个性化代码-乐佳\build\source" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.profiles.html">
+    <configuration default="false" name="test1.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/丝路个性化代码-乐佳/test1.html">
+      <method />
+    </configuration>
+    <configuration default="false" name="profiles.html" type="JavascriptDebugType" factoryName="JavaScript Debug" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/丝路个性化代码-乐佳/profiles.html">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
+      <method />
+    </configuration>
+    <configuration default="true" type="DartTestRunConfigurationType" factoryName="Dart Test">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="cucumber.js" factoryName="Cucumber.js">
+      <option name="cucumberJsArguments" value="" />
+      <option name="executablePath" />
+      <option name="filePath" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.test1.html" />
+      <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.profiles.html" />
+    </list>
+    <recent_temporary>
+      <list size="2">
+        <item index="0" class="java.lang.String" itemvalue="JavaScript Debug.profiles.html" />
+        <item index="1" class="java.lang.String" itemvalue="JavaScript Debug.test1.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="883ac892-ec31-43fb-8a4c-1f7507df8e02" name="Default" comment="" />
+      <created>1479550694234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1479550694234</updated>
+      <workItem from="1479550695448" duration="98000" />
+      <workItem from="1479550843864" duration="69231000" />
+      <workItem from="1479950790489" duration="8577000" />
+      <workItem from="1479972663273" duration="2992000" />
+      <workItem from="1479976124221" duration="1252000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="82150000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1432" y="-8" width="1456" height="876" extended-state="6" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="combo" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4229765" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/hotResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="243" column="63" selection-start-line="243" selection-start-column="63" selection-end-line="243" selection-end-column="63" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <element signature="e#114#661#0" expanded="false" />
+            <element signature="e#684#755#0" expanded="false" />
+            <element signature="e#779#923#0" expanded="false" />
+            <element signature="e#947#3465#0" expanded="false" />
+            <element signature="e#2866#3252#0" expanded="false" />
+            <element signature="e#2992#3236#0" expanded="false" />
+            <element signature="e#4943#6923#0" expanded="false" />
+            <element signature="e#6997#8496#0" expanded="false" />
+            <element signature="e#8569#9896#0" expanded="false" />
+            <element signature="e#9974#11413#0" expanded="false" />
+            <marker date="1479974943330" expanded="true" signature="4706:4719" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4706:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4740:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5756" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5772" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5811:5823" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5862:5888" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5982:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6002:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6148:6179" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6251:6279" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6344:6376" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6391:6410" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6529:6561" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6576:6595" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6758:6845" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7476:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7560" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7623:7655" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7750:7816" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7856:7887" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7967:7998" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8035:8063" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8140:8168" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8330:8417" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9069:9149" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9188:9267" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9334:9365" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9432:9460" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9475:9493" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9585:9601" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9731:9818" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10443:10523" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10562:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10581:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10727:10758" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10856" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10857" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10917:10978" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11047:11108" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11243:11330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <element signature="e#114#661#0" expanded="false" />
+            <element signature="e#684#755#0" expanded="false" />
+            <element signature="e#779#923#0" expanded="false" />
+            <element signature="e#947#3465#0" expanded="false" />
+            <element signature="e#2866#3252#0" expanded="false" />
+            <element signature="e#2992#3236#0" expanded="false" />
+            <element signature="e#4943#6923#0" expanded="false" />
+            <element signature="e#6997#8496#0" expanded="false" />
+            <element signature="e#8569#9896#0" expanded="false" />
+            <element signature="e#9974#11413#0" expanded="false" />
+            <marker date="1479974943330" expanded="true" signature="4706:4719" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4706:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4740:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5756" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5772" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5811:5823" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5862:5888" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5982:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6002:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6148:6179" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6251:6279" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6344:6376" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6391:6410" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6529:6561" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6576:6595" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6758:6845" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7476:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7560" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7623:7655" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7750:7816" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7856:7887" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7967:7998" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8035:8063" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8140:8168" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8330:8417" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9069:9149" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9188:9267" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9334:9365" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9432:9460" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9475:9493" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9585:9601" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9731:9818" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10443:10523" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10562:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10581:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10727:10758" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10856" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10857" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10917:10978" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11047:11108" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11243:11330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotResources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6475">
+          <caret line="259" column="79" selection-start-line="259" selection-start-column="79" selection-end-line="259" selection-end-column="79" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14226#14558#0" expanded="false" />
+            <element signature="e#14578#14867#0" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <element signature="e#114#661#0" expanded="false" />
+            <element signature="e#684#755#0" expanded="false" />
+            <element signature="e#779#923#0" expanded="false" />
+            <element signature="e#947#3465#0" expanded="false" />
+            <element signature="e#2866#3252#0" expanded="false" />
+            <element signature="e#2992#3236#0" expanded="false" />
+            <element signature="e#4943#6923#0" expanded="false" />
+            <element signature="e#6997#8496#0" expanded="false" />
+            <element signature="e#8569#9896#0" expanded="false" />
+            <element signature="e#9974#11413#0" expanded="false" />
+            <marker date="1479974943330" expanded="true" signature="4706:4719" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4706:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4740:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5756" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5772" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5811:5823" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5862:5888" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5982:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6002:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6148:6179" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6251:6279" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6344:6376" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6391:6410" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6529:6561" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6576:6595" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6758:6845" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7476:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7560" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7623:7655" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7750:7816" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7856:7887" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7967:7998" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8035:8063" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8140:8168" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8330:8417" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9069:9149" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9188:9267" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9334:9365" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9432:9460" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9475:9493" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9585:9601" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9731:9818" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10443:10523" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10562:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10581:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10727:10758" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10856" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10857" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10917:10978" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11047:11108" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11243:11330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotResources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4825">
+          <caret line="193" column="18" selection-start-line="193" selection-start-column="18" selection-end-line="193" selection-end-column="18" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14226#14558#0" expanded="false" />
+            <element signature="e#14578#14867#0" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#843#1178#0" expanded="false" />
+            <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#6331#7299#0" expanded="false" />
+            <element signature="e#7386#7803#0" expanded="false" />
+            <element signature="n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#18182#18514#0" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/概况.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/统计1.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ui/项目.psd">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Chinese.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="7" column="0" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript5.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2382">
+          <caret line="178" column="2" selection-start-line="178" selection-start-column="2" selection-end-line="178" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/echarts-all.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="49520" column="0" selection-start-line="49520" selection-start-column="0" selection-end-line="49520" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-217">
+          <caret line="1673" column="36" selection-start-line="1673" selection-start-column="30" selection-end-line="1673" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="572" column="0" selection-start-line="572" selection-start-column="0" selection-end-line="572" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/dat.gui.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/run.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4350">
+          <caret line="176" column="34" selection-start-line="176" selection-start-column="34" selection-end-line="176" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/echarts-wordcloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/chart/wordCloud.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2325">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/echarts.simple.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/source/echarts.simple.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3032">
+          <caret line="29178" column="29" selection-start-line="29178" selection-start-column="29" selection-end-line="29178" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dist/bootstrap.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dist/bootstrap.min.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dist/echarts.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="550">
+          <caret line="28" column="9" selection-start-line="28" selection-start-column="9" selection-end-line="28" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/dist/jquery-3.0.0.min.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/motivation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/recommendation.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/国际工程科技知识中心_files/_sitegray_d.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="6" selection-start-line="0" selection-start-column="6" selection-end-line="0" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/analysis/国际工程科技知识中心_files/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="174" column="64" selection-start-line="174" selection-start-column="64" selection-end-line="174" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laydate/laydate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3300">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="n#!!doc" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laydate/skins/default/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laydate/skins/qianhuang/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/laydate/skins/yahui/icon.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="159" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="8" column="6" selection-start-line="8" selection-start-column="6" selection-end-line="8" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test3.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="12" selection-start-line="4" selection-start-column="12" selection-end-line="4" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="998">
+          <caret line="52" column="30" selection-start-line="52" selection-start-column="30" selection-end-line="52" selection-end-column="30" />
+          <folding>
+            <element signature="n#style#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/listtest.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-91">
+          <caret line="22" column="0" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/page.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="19" column="50" selection-start-line="19" selection-start-column="50" selection-end-line="19" selection-end-column="50" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotResources.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="100" column="43" selection-start-line="100" selection-start-column="43" selection-end-line="100" selection-end-column="43" />
+          <folding>
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#div#1;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#2;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#3;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#4;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#5;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#h2#0;n#div#0;n#div#6;n#div#1;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="e#14226#14558#0" expanded="false" />
+            <element signature="e#14578#14867#0" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#ul#0;n#div#0;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#1;n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hotResources.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="115" column="16" selection-start-line="115" selection-start-column="16" selection-end-line="123" selection-end-column="30" />
+          <folding>
+            <element signature="e#0#50#0" expanded="false" />
+            <element signature="e#114#661#0" expanded="false" />
+            <element signature="e#684#755#0" expanded="false" />
+            <element signature="e#779#923#0" expanded="false" />
+            <element signature="e#947#3465#0" expanded="false" />
+            <element signature="e#2866#3252#0" expanded="false" />
+            <element signature="e#2992#3236#0" expanded="false" />
+            <element signature="e#4943#6923#0" expanded="false" />
+            <element signature="e#6997#8496#0" expanded="false" />
+            <element signature="e#8569#9896#0" expanded="false" />
+            <element signature="e#9974#11413#0" expanded="false" />
+            <marker date="1479974943330" expanded="true" signature="4706:4719" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4706:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="4740:4793" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5756" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5692:5772" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5811:5823" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5862:5888" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="5982:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6002:6081" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6148:6179" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6251:6279" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6344:6376" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6391:6410" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6529:6561" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6576:6595" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="6758:6845" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7476:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7560" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7496:7576" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7623:7655" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7750:7816" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7856:7887" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="7967:7998" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8035:8063" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8140:8168" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="8330:8417" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9069:9149" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9188:9267" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9334:9365" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9432:9460" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9475:9493" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9585:9601" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="9731:9818" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10443:10523" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10562:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10581:10660" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10727:10758" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10856" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10825:10857" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="10917:10978" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11047:11108" ph="..." />
+            <marker date="1479974943330" expanded="true" signature="11243:11330" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/profiles.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-411">
+          <caret line="9" column="0" selection-start-line="9" selection-start-column="0" selection-end-line="102" selection-end-column="51" />
+          <folding>
+            <element signature="e#843#1178#0" expanded="false" />
+            <element signature="n#script#4;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#style#0;n#head#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#6331#7299#0" expanded="false" />
+            <element signature="e#7386#7803#0" expanded="false" />
+            <element signature="n#form#0;n#div#0;n#div#1;n#div#1;n#div#0;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="n#script#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+            <element signature="e#18182#18514#0" expanded="false" />
+            <element signature="n#div#3;n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
